@@ -1,0 +1,6 @@
+# Código VBA: finales de línea de Windows, como los exporta el editor
+*.bas text eol=crlf
+*.cls text eol=crlf
+# Libros de Excel: binarios
+*.xlsm binary
+*.xlsx binary

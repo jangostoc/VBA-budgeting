@@ -1,4 +1,4 @@
-# VBA para controller financiero y FP&A
+# VBA para FP&A
 
 Dos proyectos en Excel VBA que automatizan tareas habituales de un puesto de **controller financiero** o **FP&A**: desde la exportación contable del ERP hasta los estados financieros y su análisis, y el control presupuestario mensual con cuadro de mando e informe de gestión.
 
